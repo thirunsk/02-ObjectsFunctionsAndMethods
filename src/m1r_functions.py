@@ -18,11 +18,11 @@ def main():
 def hello(friend):
     print("Hello,", friend, "- how are things?")
 
-
 def goodbye(friend):
     print("Goodbye,", friend, '- see you later!')
     print('   Ciao!')
     print('   Bai bai!')
+
 
 
 def hello_and_goodbye(person1, person2):
@@ -31,3 +31,13 @@ def hello_and_goodbye(person1, person2):
 
 
 main()
+#Hello, Snow White - how are things?
+#Goodbye, Bashful - see you later!
+#Ciao!
+#Bai bai!
+#Hello, Grumpy - how are things?
+#Hello, Sleepy - how are things?
+#Hello, Magic Mirror - how are things?
+#Goodbye, Cruel Queen - see you later!
+#Ciao!
+#Bai bai!
